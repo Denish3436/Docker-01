@@ -1,0 +1,7 @@
+In this we used docker, to deploy a go-lang app,
+step 1- We have connect our ubutnu with ec2 instance which create on aws cloud platform
+step 2- Then we have update our instance & and download docker with following commonds from reference docker documentation.
+step 3- Then we clone This repository in our instance.
+step 4- Then go to directory in which docker file is placed with the help of cd .. command & also login in docker hub at this instance
+step 5- Now we run following commands to build image.
+step 6- last with docker run command final image is formed on the docker hub.
