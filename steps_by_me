@@ -4,4 +4,4 @@ step 2- Then we have update our instance & and download docker with following co
 step 3- Then we clone This repository in our instance.
 step 4- Then go to directory in which docker file is placed with the help of cd .. command & also login in docker hub at this instance
 step 5- Now we run following commands to build image.
-step 6- last with docker run command final image is formed on the docker hub.
+step 6- last with docker run command final image is formed on the docker hub...
